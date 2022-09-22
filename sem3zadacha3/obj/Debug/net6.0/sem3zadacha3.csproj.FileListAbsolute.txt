@@ -1,0 +1,15 @@
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\bin\Debug\net6.0\sem3zadacha3.exe
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\bin\Debug\net6.0\sem3zadacha3.deps.json
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\bin\Debug\net6.0\sem3zadacha3.runtimeconfig.json
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\bin\Debug\net6.0\sem3zadacha3.dll
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\bin\Debug\net6.0\sem3zadacha3.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.csproj.AssemblyReference.cache
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.AssemblyInfoInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.AssemblyInfo.cs
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.csproj.CoreCompileInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.dll
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\refint\sem3zadacha3.dll
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\sem3zadacha3.genruntimeconfig.cache
+D:\учеба 2\WSC\cischarpsem3\sem3zadacha3\obj\Debug\net6.0\ref\sem3zadacha3.dll
