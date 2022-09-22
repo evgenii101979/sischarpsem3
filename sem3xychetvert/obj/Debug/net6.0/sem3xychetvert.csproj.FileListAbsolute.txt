@@ -1,0 +1,5 @@
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.csproj.AssemblyReference.cache
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.AssemblyInfoInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.AssemblyInfo.cs
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.csproj.CoreCompileInputs.cache
