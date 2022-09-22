@@ -1,0 +1,15 @@
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\bin\Debug\net6.0\sem3vzale.exe
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\bin\Debug\net6.0\sem3vzale.deps.json
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\bin\Debug\net6.0\sem3vzale.runtimeconfig.json
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\bin\Debug\net6.0\sem3vzale.dll
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\bin\Debug\net6.0\sem3vzale.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.csproj.AssemblyReference.cache
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.AssemblyInfoInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.AssemblyInfo.cs
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.csproj.CoreCompileInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.dll
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\refint\sem3vzale.dll
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\sem3vzale.genruntimeconfig.cache
+D:\учеба 2\WSC\cischarpsem3\sem3vzale\obj\Debug\net6.0\ref\sem3vzale.dll
