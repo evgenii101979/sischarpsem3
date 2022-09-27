@@ -3,3 +3,13 @@ D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.
 D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.AssemblyInfoInputs.cache
 D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.AssemblyInfo.cs
 D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.csproj.CoreCompileInputs.cache
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\bin\Debug\net6.0\sem3xychetvert.exe
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\bin\Debug\net6.0\sem3xychetvert.deps.json
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\bin\Debug\net6.0\sem3xychetvert.runtimeconfig.json
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\bin\Debug\net6.0\sem3xychetvert.dll
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\bin\Debug\net6.0\sem3xychetvert.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.dll
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\refint\sem3xychetvert.dll
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.pdb
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\sem3xychetvert.genruntimeconfig.cache
+D:\учеба 2\WSC\cischarpsem3\sem3xychetvert\obj\Debug\net6.0\ref\sem3xychetvert.dll

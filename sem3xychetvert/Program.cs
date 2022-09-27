@@ -7,15 +7,15 @@ if(x > 0 && y > 0)
 {
     Console.WriteLine("1");
     }
-    else if(x < 0 && y < 0);
+    else if(x < 0 && y < 0)
     {
-    Console.WriteLine("3");
+        Console.WriteLine("3");
     }
-    else if(x < 0 && y > 0);
+    else if(x < 0 && y > 0)
     {
-    Console.WriteLine("4");
+        Console.WriteLine("2");
     }
-    else(x > 0 && y < 0);
+    else if(x > 0 && y < 0);
     {
-    Console.WriteLine("2");
+        Console.WriteLine("4");
 }
